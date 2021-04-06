@@ -19,3 +19,5 @@ OTP Page
 ![WhatsApp Image 2021-04-06 at 5 55 23 AM (2)](https://user-images.githubusercontent.com/63225681/113702497-31899a00-969f-11eb-8155-b06838169a5c.jpeg)
 
 Finger print Authentication
+
+![WhatsApp Image 2021-04-06 at 5 55 23 AM](https://user-images.githubusercontent.com/63225681/113714221-cabfad00-96ad-11eb-9c41-80bd33feea10.jpeg)
