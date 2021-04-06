@@ -13,3 +13,6 @@ Registration Page
 Login Page
 
 ![WhatsApp Image 2021-04-06 at 5 55 23 AM (3)](https://user-images.githubusercontent.com/63225681/113702325-fd15de00-969e-11eb-83e8-2dc1d1b407b4.jpeg)
+
+OTP Page
+
